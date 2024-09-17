@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "express": "^4.21.0"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "**This repository is created for NodeJS File System**",
+      "type": "module"
+}
